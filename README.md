@@ -13,7 +13,7 @@
 **ProfileCraft** is a free, fully client-side GitHub Profile README generator.  
 No login. No database. No tracking. Your data never leaves your browser.
 
-[🚀 **Live Demo**](https://profilecraft.ratul.site) &nbsp;·&nbsp; [🐛 **Report a Bug**](https://github.com/ratulhub/profilecraft/issues) &nbsp;·&nbsp; [✨ **Request a Feature**](https://github.com/ratulhub/profilecraft/issues)
+[🚀 **Live Demo**](https://https://gitprofilecraft.netlify.app/) &nbsp;·&nbsp; [🐛 **Report a Bug**](https://github.com/ratulhub/profilecraft/issues) &nbsp;·&nbsp; [✨ **Request a Feature**](https://github.com/ratulhub/profilecraft/issues)
 
 </div>
 
