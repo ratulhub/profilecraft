@@ -58,7 +58,7 @@ open index.html
 ```
 
 **Option 3 — Host your own:**  
-Upload the 4 files (`index.html`, `style.css`, `script.js`, `decorators.csv`) to any static host:
+Upload the all files to any static host, after downlode :
 - [Vercel](https://vercel.com) — drag and drop
 - [Netlify](https://netlify.com) — drag and drop
 - [GitHub Pages](https://pages.github.com) — push to `gh-pages` branch
@@ -69,11 +69,13 @@ Upload the 4 files (`index.html`, `style.css`, `script.js`, `decorators.csv`) to
 
 ```
 profilecraft/
-├── index.html          # Main app — all steps, routing, modals
-├── style.css           # Design system — light/dark, typography, components
-├── script.js           # All logic — CSV parser, README generator, localStorage
-├── decorators.csv      # 45+ decorator items with metadata
-├── LICENSE             # MIT License
+├── index.html        
+├── robots.txt        
+├── placeholder.svg   
+├── decorators.csv    
+└── assets/           
+    ├── index-D4w_vKxr.js
+    └── index-DJk6nQIn.css
 ├── CONTRIBUTING.md     # Contribution guide
 └── README.md           # This file
 ```
