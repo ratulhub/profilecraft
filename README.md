@@ -38,11 +38,25 @@ No login. No database. No tracking. Your data never leaves your browser.
 
 ## 🖼️ Screenshots
 
-| Splash | Step 1 — Basic Info | Step 5 — Decorators | Step 6 — Preview |
-|:---:|:---:|:---:|:---:|
-| *(add screenshot)* | *(add screenshot)* | *(add screenshot)* | *(add screenshot)* |
+### 🖥️ Desktop
 
----
+| Step 1 — Basic Info | Step 2 — Skills |
+|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/be77f80e-92bd-473f-8111-c423dc6f909b" width="480"/> | <img src="https://github.com/user-attachments/assets/beb17054-5df2-4ba8-a514-2622c6fe467b" width="480"/> |
+
+| Step 3 — Social Links | Step 4 — Achievements |
+|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/c20ad520-57d1-451e-8e1e-810ff3f4e9d9" width="480"/> | <img src="https://github.com/user-attachments/assets/a853860f-4fa8-47e0-8a6b-6e395d5860be" width="480"/> |
+
+| Step 5 — Decorators | Step 6 — Preview |
+|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/429cba49-2a99-4c79-9f4f-c748330cdb7b" width="480"/> | <img src="https://github.com/user-attachments/assets/ff7ee67a-fd45-4c8d-8b2b-a42cac19586a" width="480"/> |
+
+### 📱 Mobile
+
+| Step 1 | Step 2 | Step 3 | Step 4 | Step 5 | Step 6 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/be77f80e-92bd-473f-8111-c423dc6f909b" width="130"/> | <img src="https://github.com/user-attachments/assets/beb17054-5df2-4ba8-a514-2622c6fe467b" width="130"/> | <img src="https://github.com/user-attachments/assets/c20ad520-57d1-451e-8e1e-810ff3f4e9d9" width="130"/> | <img src="https://github.com/user-attachments/assets/a853860f-4fa8-47e0-8a6b-6e395d5860be" width="130"/> | <img src="https://github.com/user-attachments/assets/429cba49-2a99-4c79-9f4f-c748330cdb7b" width="130"/> | <img src="https://github.com/user-attachments/assets/ff7ee67a-fd45-4c8d-8b2b-a42cac19586a" width="130"/> |
 
 ## 🚀 Quick Start
 
